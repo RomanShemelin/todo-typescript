@@ -17,8 +17,8 @@ interface ToDoStore {
 export const useToDoStore = create<ToDoStore>((set, get) => ({
   tasks: [
     {
-      id: "wewe",
-      title: "sdsd",
+      id: "1",
+      title: "get job",
       createdAt: 123,
     },
   ],
