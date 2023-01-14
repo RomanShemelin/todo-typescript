@@ -1,4 +1,3 @@
-import { PlusOutlined } from "@ant-design/icons";
 import Icon, {
   CustomIconComponentProps,
 } from "@ant-design/icons/lib/components/Icon";
